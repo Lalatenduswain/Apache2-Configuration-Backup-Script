@@ -9,13 +9,13 @@ This script automates the process of creating backups for Apache2 configuration 
 1. Clone or download this repository to your server:
 
    ```bash
-   git clone https://github.com/Lalatenduswain/apache2-config-backup.git
+   https://github.com/Lalatenduswain/Apache2-Configuration-Backup-Script.git
    ```
 
 2. Navigate to the script directory:
 
    ```bash
-   cd apache2-config-backup
+   cd Apache2-Configuration-Backup-Script
    ```
 
 3. Make the script executable:
@@ -49,6 +49,3 @@ If you find this script helpful and want to show your appreciation, you can dona
 **Author:** Lalatendu Swain | [GitHub](https://github.com/Lalatenduswain) | [Website](https://blog.lalatendu.info/)
 
 This script is provided as-is and may require modifications or updates based on your specific environment and requirements. Use it at your own risk. The authors of the script are not liable for any damages or issues caused by its usage.
-```
-
-This README provides usage instructions, optional scheduling information, and a section for donations and disclaimers. Feel free to modify it further based on your preferences and additional details you want to include.
